@@ -18,7 +18,10 @@ This repository contains a simple and effective implementation of sentiment anal
 
 ```
 
-<pre> ## Requirements Install dependencies: ```bash pip install pandas numpy matplotlib seaborn nltk scikit-learn tensorflow ``` </pre>
+## Requirements Install dependencies: 
+```bash 
+pip install pandas numpy matplotlib seaborn nltk scikit-learn tensorflow
+``` 
 
 ```
 
