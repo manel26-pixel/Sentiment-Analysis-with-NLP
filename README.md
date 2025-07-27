@@ -1,7 +1,7 @@
 # Sentiment-Analysis-with-NLP
 This repository contains a simple and effective implementation of sentiment analysis using Natural Language Processing (NLP) techniques. It classifies movie reviews into positive or negative sentiments using machine learning.
 
-```
+
 ## Contents Overview
 
 - NLP.ipynb: Notebook with preprocessing, feature extraction, model training, and evaluation.
@@ -16,15 +16,10 @@ This repository contains a simple and effective implementation of sentiment anal
   - Long Short-Term Memory (LSTM)
 - Accuracy evaluation on test data
 
-```
-
 ## Requirements Install dependencies: 
 ```bash 
 pip install pandas numpy matplotlib seaborn nltk scikit-learn tensorflow
 ``` 
-
-```
-
 ## Models & Dataset
 
 - Dataset: IMDB Dataset (binary sentiment)
@@ -42,5 +37,4 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn tensorflow
    - Train the models
    - Evaluate and compare results
 
-```
 
