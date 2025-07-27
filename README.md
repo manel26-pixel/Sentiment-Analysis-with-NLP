@@ -1,2 +1,2 @@
 # Sentiment-Analysis-with-NLP
-This project performs sentiment analysis using Natural Language Processing (NLP) techniques on a labeled dataset of movie reviews. It includes data cleaning, feature extraction, model training, and evaluation.
+This repository contains a simple and effective implementation of sentiment analysis using Natural Language Processing (NLP) techniques. It classifies movie reviews into positive or negative sentiments using machine learning.
